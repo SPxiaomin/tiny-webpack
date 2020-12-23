@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/SPxiaomin/tiny-webpack.git",
   "author": "gujunmin <3013366498@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  }
 }
